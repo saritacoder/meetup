@@ -1,0 +1,18 @@
+.detail {
+  text-align: center;
+}
+
+.detail img {
+  width: 100%;
+  max-height: 600px; /* Maximum height constraint */
+  object-fit: contain; /* Shows full image without cropping */
+}
+
+.detail h1 {
+  margin: 1rem 0;
+}
+
+.detail address {
+  font-style: italic;
+  margin: 0.5rem 0;
+}
